@@ -1,0 +1,308 @@
+fileFormatVersion: 2
+guid: 6eedf659583e54e3ba111151cb03825d
+timeCreated: 1470213516
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Buttons_0
+    21300002: Panel
+    21300004: Jump Button
+    21300006: Left Button
+    21300008: Right Button
+    21300010: Back Button
+    21300012: Resume Button
+    21300014: Back to Menu Button
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Buttons_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 391
+        width: 907
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -453.5, y: 52.5}
+        - {x: -453.5, y: 37.5}
+        - {x: -424.5, y: -52.5}
+        - {x: -398.5, y: -52.5}
+        - {x: -367.5, y: 41.5}
+        - {x: -367.5, y: 52.5}
+      - - {x: -341.5, y: 52.5}
+        - {x: -360.5, y: 36.5}
+        - {x: -371.5, y: -24.5}
+        - {x: -371.5, y: -52.5}
+        - {x: -283.5, y: -52.5}
+        - {x: -283.5, y: -4.5}
+        - {x: -284.5, y: 5.5}
+        - {x: -311.5, y: 52.5}
+      - - {x: -277.5, y: 52.5}
+        - {x: -277.5, y: -52.5}
+        - {x: -249.5, y: -52.5}
+        - {x: -188.5, y: -4.5}
+        - {x: -188.5, y: 45.5}
+        - {x: -196.5, y: 52.5}
+      - - {x: -151.5, y: 52.5}
+        - {x: -151.5, y: 41.5}
+        - {x: -149.5, y: 39.5}
+        - {x: -120.5, y: -52.5}
+        - {x: -94.5, y: -52.5}
+        - {x: -63.5, y: 41.5}
+        - {x: -63.5, y: 52.5}
+      - - {x: -51.5, y: 52.5}
+        - {x: -57.5, y: 32.5}
+        - {x: -57.5, y: -49.5}
+        - {x: -50.5, y: -52.5}
+        - {x: 16.5, y: -52.5}
+        - {x: 31.5, y: -37.5}
+        - {x: 31.5, y: 38.5}
+        - {x: 15.5, y: 52.5}
+      - - {x: 88.5, y: 52.5}
+        - {x: 88.5, y: -52.5}
+        - {x: 116.5, y: -52.5}
+        - {x: 177.5, y: -4.5}
+        - {x: 177.5, y: 45.5}
+        - {x: 169.5, y: 52.5}
+      - - {x: 183.5, y: 52.5}
+        - {x: 183.5, y: -52.5}
+        - {x: 344.5, y: -52.5}
+        - {x: 344.5, y: 52.5}
+      - - {x: 340.5, y: 52.5}
+        - {x: 340.5, y: 3.5}
+        - {x: 372.5, y: -52.5}
+        - {x: 407.5, y: -52.5}
+        - {x: 449.5, y: 22.5}
+        - {x: 449.5, y: 52.5}
+    - name: Panel
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 81
+        width: 303
+        height: 293
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 129.5, y: -146.5}
+        - {x: 151.5, y: -146.5}
+        - {x: 151.5, y: -104.5}
+        - {x: 146.5, y: -104.5}
+        - {x: 146.5, y: 104.5}
+        - {x: 151.5, y: 104.5}
+        - {x: 151.5, y: 146.5}
+        - {x: 129.5, y: 146.5}
+        - {x: 129.5, y: 135.5}
+        - {x: -129.5, y: 135.5}
+        - {x: -129.5, y: 146.5}
+        - {x: -151.5, y: 146.5}
+        - {x: -151.5, y: 104.5}
+        - {x: -146.5, y: 104.5}
+        - {x: -146.5, y: -104.5}
+        - {x: -151.5, y: -104.5}
+        - {x: -151.5, y: -146.5}
+        - {x: -129.5, y: -146.5}
+        - {x: -129.5, y: -135.5}
+        - {x: 129.5, y: -135.5}
+    - name: Jump Button
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 166
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62.5, y: 90.5}
+        - {x: -90.5, y: 83.5}
+        - {x: -90.5, y: -50.5}
+        - {x: -50.5, y: -90.5}
+        - {x: 36.5, y: -90.5}
+        - {x: 90.5, y: -55.5}
+        - {x: 90.5, y: 61.5}
+        - {x: 69.5, y: 90.5}
+      - - {x: -44.5, y: -64.5}
+        - {x: -74.5, y: 19.5}
+        - {x: 19.5, y: 74.5}
+        - {x: 74.5, y: -19.5}
+      - - {x: 26.5, y: 53.5}
+        - {x: -43.5, y: 21.5}
+        - {x: -63.5, y: -9.5}
+        - {x: -63.5, y: -29.5}
+        - {x: -61.5, y: -31.5}
+        - {x: -36.5, y: -61.5}
+        - {x: 33.5, y: -61.5}
+        - {x: 49.5, y: -15.5}
+        - {x: 49.5, y: 53.5}
+      - - {x: 2.5, y: 13.5}
+        - {x: -7.5, y: 13.5}
+        - {x: -9.5, y: 8.5}
+        - {x: -9.5, y: -5.5}
+        - {x: -8.5, y: -6.5}
+        - {x: 10.5, y: -6.5}
+        - {x: 10.5, y: 10.5}
+        - {x: 5.5, y: 12.5}
+    - name: Left Button
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 175
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 86}
+        - {x: -53, y: 86}
+        - {x: -86, y: 48}
+        - {x: -86, y: -55}
+        - {x: -42, y: -86}
+        - {x: 42, y: -86}
+        - {x: 83, y: -44}
+        - {x: 86, y: -37}
+        - {x: 86, y: 70}
+      - - {x: -73, y: -13}
+        - {x: -38, y: 64}
+        - {x: 60, y: 43}
+        - {x: 57, y: -48}
+      - - {x: 24, y: 58}
+        - {x: -71, y: 3}
+        - {x: -71, y: -1}
+        - {x: -70, y: -4}
+        - {x: 23, y: -58}
+        - {x: 28, y: -58}
+        - {x: 30, y: -57}
+        - {x: 30, y: -54}
+        - {x: 29, y: -51}
+        - {x: 30, y: -12}
+        - {x: 30, y: 58}
+    - name: Right Button
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 176
+        width: 172
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 86}
+        - {x: -55, y: 86}
+        - {x: -86, y: 50}
+        - {x: -86, y: -53}
+        - {x: -39, y: -86}
+        - {x: 70, y: -86}
+        - {x: 86, y: -59}
+        - {x: 86, y: 72}
+        - {x: 72, y: 84}
+      - - {x: -48, y: -57}
+        - {x: -55, y: 48}
+        - {x: -12, y: 72}
+        - {x: 58, y: -49}
+      - - {x: -29, y: 57}
+        - {x: -29, y: -59}
+        - {x: -23, y: -59}
+        - {x: 72, y: -4}
+        - {x: 72, y: 4}
+        - {x: -11, y: 57}
+    - name: Back Button
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 82
+        width: 276
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 33}
+        - {x: -138, y: -33}
+        - {x: 138, y: -33}
+        - {x: 138, y: 33}
+    - name: Resume Button
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 81
+        width: 276
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 33}
+        - {x: -138, y: -33}
+        - {x: 138, y: -33}
+        - {x: 138, y: 33}
+    - name: Back to Menu Button
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 12
+        width: 276
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -138, y: 33}
+        - {x: -138, y: -33}
+        - {x: 138, y: -33}
+        - {x: 138, y: 33}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
